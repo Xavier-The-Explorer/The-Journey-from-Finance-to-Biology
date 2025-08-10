@@ -29,7 +29,7 @@ Welcome! I am transitioning from finance to biology, with a passion for molecula
 - Target Score: 1500+
 - First Attempt: Sep 2026
 - Resources: Khan Academy, Erica Meltzer, Blue Book
-- [SAT Study Plan](link-to-Notion)
+- [SAT Study Plan](https://zany-sunscreen-b7e.notion.site/Life-Science-Study-Tracker-24b7eef8fe088051bbb4d5fd622383a0)
 
 ---
 
