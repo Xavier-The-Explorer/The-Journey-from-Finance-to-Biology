@@ -19,10 +19,9 @@ Welcome! I am transitioning from finance to biology, with a passion for molecula
 | Course | Instructor | Institution | Status | Certificate |
 |--------|------------|-------------|--------|-------------|
 | Introduction to Genetics & Evolution | Prof. Mohamed Noor | Duke University | ✅ Completed | https://www.coursera.org/account/accomplishments/certificate/D52K7P413N01 |
-| Industrial Biotechnology | Prof. Nicholas Turner<br>Prof. Nigel Scrutton<br>Dr. Nicholas Weise
- | University of Manchester | ✅ Completed | https://www.coursera.org/account/accomplishments/certificate/UXHHCO715W2U |
+| Industrial Biotechnology | Prof. Nicholas Turner | University of Manchester | ✅ Completed | https://www.coursera.org/account/accomplishments/certificate/UXHHCO715W2U |
 | 7.00x: Introduction to Biology – The Secret of Life | Prof. Eric S. Lander | Massachusetts Institute of Technology | ✅ Completed | https://courses.edx.org/certificates/eda3a15212084a518bc2c13ec960b79d?_gl=1*35x9za*_gcl_au*MTMwNTMzMzk4NS4xNzQ4NTg1MjQz*_ga*MTA3MTI5MTM0MC4xNzQ4NTg1MjM3*_ga_D3KS4KMDT0*czE3NTQ2MjU3MDgkbzIyMyRnMCR0MTc1NDYyNTcwOCRqNjAkbDAkaDA. |
-| MCB63X: Principles of Biochemistry | Prof. Alain Viel<br>Prof. Rachelle Gaudet | Harvard University | 🔄 In Progress | Expected Sep 2025 |
+| MCB63X: Principles of Biochemistry | Prof. Alain Viel | Harvard University | 🔄 In Progress | Expected Sep 2025 |
 
 ---
 
